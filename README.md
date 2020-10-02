@@ -5,7 +5,7 @@
 ```kotlin
     main = listOf(Java, Kotlin), 
     second = listOf(C/C++, JavaScript, Python),
-    also = listOf(Scala, Go, C#)
+    also = listOf(Scala, Go)
 );
 ```
 #### ✔️  **Want :** Make some great project, contribute to Open-Source.
